@@ -1,0 +1,7 @@
+pan,250
+huevo,200
+carne,6500
+tomate,90
+queso,300
+palta,950
+lechuga,100

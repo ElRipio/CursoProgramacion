@@ -1,0 +1,6 @@
+Producto: Pan
+Precio: $250
+Producto: Huevo
+Precio: $200
+Producto: Carne
+Precio: $6500
